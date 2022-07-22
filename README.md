@@ -1,0 +1,1 @@
+Just a little automation tool I made with pyautogui to take a few hundred in-game screenshots of spells in the game Solitairica so I wouldn't have to do it manually. It scrolls through all the spells in the game, using an image reference to find the location of spells on the page and takes a cropped screenshot of each. 
